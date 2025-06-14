@@ -1,6 +1,4 @@
 {
   "buildCommand": "npm run build",
-  "outputDirectory": "dist",
-  "framework": "vite",
-  "rootDirectory": "fsd1"
+  "outputDirectory": "dist"
 }
